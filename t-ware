@@ -14,12 +14,12 @@ scriptcmds = {
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Reanimation/Mizt%20Reanimation.lua',true))()  
     end,
     
-    ["r6f"] =  function()
+    ["r6fling"] =  function()
         CMSG(" > Reanimated with flings on!")       
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Reanimation/Mizt%20Flings.lua',true))() 
     end,
 
-    ["r6d"] =  function()
+    ["r6god"] =  function()
         CMSG(" > Reanimated with godmode on!")
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Reanimation/Mizt%20Perma%20Death.lua',true))()     
     end,
@@ -46,7 +46,7 @@ scriptcmds = {
     end,
     
     ["xester"] =  function()
-        CMSG(" > Running Xester V by Supr14")
+        CMSG(" > Running Xester V by tubers93")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Xester%20Convert.lua',true))()
     end,
     
@@ -86,7 +86,7 @@ scriptcmds = {
     end,
     
     ["memeus 2"] =  function()
-        CMSG(" > Running Memeus 2.0 by makhail07")
+        CMSG(" > Running Memeus 2.0 by tubers93")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Memeus%202.0%20Convert.lua',true))()
     end,
     
@@ -145,7 +145,7 @@ scriptcmds = {
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Hoverboard%20Convert.lua',true))()
     end,
 
-    ["ban"] =  function()
+    ["banhammer"] =  function()
         CMSG(" > Running Ban Hammer by Creterisk")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Ban%20Hammer%20Convert.lua',true))()
     end,
@@ -166,7 +166,7 @@ scriptcmds = {
     end,
 
     ["hacker"] = function()
-	    CMSG(" > Running Hacker X by InfiniteOneWithdank")
+	    CMSG(" > Running Hacker X by tubers93")
 	    loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Hacker%20X%20Paid%20Convert.lua',true))()
     end,
 	
@@ -181,7 +181,7 @@ scriptcmds = {
     end,
 
     ["voodoo"] = function()
-        CMSG(" > Running Voodoo Child by Creterisk")
+        CMSG(" > Running Voodoo Child by tubers93")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Voodoo%20Child%20Convert.lua',true))()
     end,
 
@@ -191,7 +191,7 @@ scriptcmds = {
     end,
 	
     ["cart"] = function()
-	CMSG(" > Running Shopping Cart by Rufus")
+	CMSG(" > Running Shopping Cart by tubers93")
 	CMSG(" > *Warning, 90% of this is FD meaning no one will see you pick people up")
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Shopping%20Cart%20Convert.lua',true))()
     end,
